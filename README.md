@@ -1,15 +1,11 @@
-
-
 <h1 align="center">Hi 👋, I'm Gourav Amolekar</h1>
-<h3 align="center">A passionate Android Developer from India</h3>
+<h3 align="center">A passionate Mobile App Developer from India</h3>
 
-- 🔭 I’m currently working on **Android Development**
+- 🔧 Building sleek, modern apps with **Modern Tools and Technologies**
 
-- 👯 I’m looking to collaborate on **Android Projects**
+-  🤝 Open to teaming up on **exciting Mobile App Projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Gourav124](https://github.com/Gourav124)
-
-- 💬 Ask me about **Java,Kotlin**
 
 - 📫 How to reach me **gouravamolekar@gmail.com**
 
